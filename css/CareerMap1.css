@@ -29,7 +29,7 @@ a {
 
 #container {
     width: 1200px;
-    height: 800px;
+    height: 859px;
     margin:0 auto;
     position:relative;
 }
@@ -37,7 +37,7 @@ a {
 #left-container, 
 #right-container, 
 #center-container {
-    height:1000px;
+    height:859px;
     position:absolute;
     top:0;
 }
